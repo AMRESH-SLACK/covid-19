@@ -5,6 +5,7 @@
 body{
     background: lavender;
 }
+@media only screen and (min-width:600px){}
 header{
     background: white;
     text-align: center;
@@ -34,4 +35,5 @@ footer{
 
  h3, p,img{
     margin: 20px;
+}
 }
